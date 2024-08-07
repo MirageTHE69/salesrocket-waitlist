@@ -40,10 +40,10 @@ export const JoinWaitlist = () => {
         <div className="flex items-center justify-center text-6xl">🤩</div>
 
         <DialogTitle className="font-unbounded text-center mt-4 font-bold">
-          YOU'RE ON OUR WAITLIST MY FRIEND!
+          YOU&apos;RE ON OUR WAITLIST MY FRIEND!
         </DialogTitle>
         <p className="mt-2 text-sm/6 text-gray-600 text-center">
-          We'll send you an email as soon as Our Product is ready. See you soon
+          We&apos;ll send you an email as soon as Our Product is ready. See you soon
         </p>
       </Dialog>
 
