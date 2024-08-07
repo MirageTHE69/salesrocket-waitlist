@@ -6,7 +6,7 @@ import { JoinWaitlist } from "@/components/join-waitlist";
 import { Pricing } from "@/components/pricing";
 import { ScrollUp } from "@/components/scroll-up";
 
-export default function () {
+const Page = () => {
   return (
     <>
       <Container>
@@ -26,4 +26,6 @@ export default function () {
       </Container>
     </>
   );
-}
+};
+
+export default Page;
